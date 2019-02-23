@@ -1,0 +1,11 @@
+id_PRIMARY_KEY,biz_name,address,lat,lng,phone
+1,South Slope Local,"4320, 355 7th Ave, Brooklyn, NY 11215",40.677461,-73.973425,(347) 844-9292
+2,Allegro Coffee Roasters,"214 3rd St, Brooklyn, NY 11215",40.6747257,-73.9889856,(718) 907-3622
+3,East One Coffee Roasters,"384 Court St, Brooklyn, NY 11231",40.6812041,-73.9966255,(347) 987-4919
+4,Stumptown Coffee Roasters,"212b Pacific St, Brooklyn, NY 11201",40.6888352,-73.9920182,(347) 416-6741
+5,BKG Coffee Roasters,"557 Myrtle Ave, Brooklyn, NY 11205",40.69408775,-73.96194726,
+6,Brooklyn Roasting Company,"25 Jay St, Brooklyn, NY 11201",40.7042353,-73.9863964,(718) 855-1000
+7,City of Saints Coffee Roasters,"79 E 10th St, New York, NY 10003",40.67234642,-73.99442251,(646) 590-1624
+8,Roasting Plant,"81 Orchard St, New York, NY 10002",40.717832,-73.9904985,(212) 775-7755
+9,Irving Farm Coffee Roasters,"78 W 3rd St, New York, NY 10012",40.7311244,-74.0013705,(646) 398-7146
+10,Blackstone Coffee Roaster,"502 Hudson St, New York, NY 10014",40.7332782,-74.0061859,(212) 989-6131

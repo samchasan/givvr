@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+  <div id='map'>
+    {% capture scripts %}
+      {% include map.js %}
+    {% endcapture %}
+    <script>{{ scripts | uglify | strip }}</script>
+  </div>

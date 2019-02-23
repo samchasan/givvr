@@ -1,0 +1,82 @@
+[
+  {
+    "id_PRIMARY_KEY": 1,
+    "biz_name": "South Slope Local",
+    "address": "4320, 355 7th Ave, Brooklyn, NY 11215",
+    "lat": 40.677461,
+    "lng": -73.973425,
+    "phone": "(347) 844-9292"
+  },
+  {
+    "id_PRIMARY_KEY": 2,
+    "biz_name": "Allegro Coffee Roasters",
+    "address": "214 3rd St, Brooklyn, NY 11215",
+    "lat": 40.6747257,
+    "lng": -73.9889856,
+    "phone": "(718) 907-3622"
+  },
+  {
+    "id_PRIMARY_KEY": 3,
+    "biz_name": "East One Coffee Roasters",
+    "address": "384 Court St, Brooklyn, NY 11231",
+    "lat": 40.6812041,
+    "lng": -73.9966255,
+    "phone": "(347) 987-4919"
+  },
+  {
+    "id_PRIMARY_KEY": 4,
+    "biz_name": "Stumptown Coffee Roasters",
+    "address": "212b Pacific St, Brooklyn, NY 11201",
+    "lat": 40.6888352,
+    "lng": -73.9920182,
+    "phone": "(347) 416-6741"
+  },
+  {
+    "id_PRIMARY_KEY": 5,
+    "biz_name": "BKG Coffee Roasters",
+    "address": "557 Myrtle Ave, Brooklyn, NY 11205",
+    "lat": 40.69408775,
+    "lng": -73.96194726,
+    "phone": ""
+  },
+  {
+    "id_PRIMARY_KEY": 6,
+    "biz_name": "Brooklyn Roasting Company",
+    "address": "25 Jay St, Brooklyn, NY 11201",
+    "lat": 40.7042353,
+    "lng": -73.9863964,
+    "phone": "(718) 855-1000"
+  },
+  {
+    "id_PRIMARY_KEY": 7,
+    "biz_name": "City of Saints Coffee Roasters",
+    "address": "79 E 10th St, New York, NY 10003",
+    "lat": 40.67234642,
+    "lng": -73.99442251,
+    "phone": "(646) 590-1624"
+  },
+  {
+    "id_PRIMARY_KEY": 8,
+    "biz_name": "Roasting Plant",
+    "address": "81 Orchard St, New York, NY 10002",
+    "lat": 40.717832,
+    "lng": -73.9904985,
+    "phone": "(212) 775-7755"
+  },
+  {
+    "id_PRIMARY_KEY": 9,
+    "biz_name": "Irving Farm Coffee Roasters",
+    "address": "78 W 3rd St, New York, NY 10012",
+    "lat": 40.7311244,
+    "lng": -74.0013705,
+    "phone": "(646) 398-7146"
+  },
+  {
+    "id_PRIMARY_KEY": 10,
+    "biz_name": "Blackstone Coffee Roaster",
+    "address": "502 Hudson St, New York, NY 10014",
+    "lat": 40.7332782,
+    "lng": -74.0061859,
+    "phone": "(212) 989-6131"
+  }
+]
